@@ -8,17 +8,17 @@
 
 ## ` 🔥 My Stats `
 
-<br>
+
 <p><img align="right" width="380" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-###
+
 
 ![](https://github-readme-stats.vercel.app/api?username=AdarshThakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br>
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshThakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+
 
 <a href="http://www.github.com/AdarshThakare"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshThakare&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
