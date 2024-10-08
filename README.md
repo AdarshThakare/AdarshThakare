@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1600&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Adarsh+Thakare." alt="Typing SVG">
 </p>
 
-<h4 align="center">I'm a Curious full stack Android developer and a Chess Enthusiast from India</h4>
+<h4 align="center">I'm a Curious Full-Stack Android developer and a Chess Enthusiast from India</h4>
 
 
 ## ` 🔥 My Stats `
@@ -17,14 +17,14 @@
 <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshThakare&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AdarshThakare&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
 ###
 
 <a href="http://www.github.com/AdarshThakare"><img src="https://github-readme-activity-graph.vercel.app/graph?username=AdarshThakare&bg_color=1c1917&color=ffffff&line=f97316&point=f97316&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AdarshThakare&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 <div align="center">
 <picture>
