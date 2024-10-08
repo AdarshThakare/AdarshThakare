@@ -5,10 +5,10 @@
 <h4 align="center">I'm a Curious full stack Android developer and a Chess Enthusiast from India</h4>
 
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-<br>
-
 ## ` 🔥 My Stats `
+
+<p><img align="right" width="400" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br>
 
 ###
 
