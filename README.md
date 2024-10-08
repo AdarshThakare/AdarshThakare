@@ -4,6 +4,7 @@
 
 <h4 align="center">I'm a Curious Full-Stack Android developer and a Chess Enthusiast from India</h4>
 
+<br>
 
 ## ` 🔥 My Stats `
 
