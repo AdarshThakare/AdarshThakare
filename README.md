@@ -7,8 +7,8 @@
 
 ## ` 🔥 My Stats `
 
-<p><img align="right" width="350" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 <br>
+<p><img align="right" width="380" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 ###
 
