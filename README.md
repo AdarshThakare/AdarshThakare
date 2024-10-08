@@ -1,1 +1,19 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdarshThakare&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=180&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+<h1 align="center">Hi 👋, I'm Prajyot Tayde</h1>
+<h4 align="center">I'm a Curious full stack Android developer and a Chess Enthusiast from India</h4>
+
+
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
