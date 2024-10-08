@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Adarsh+Thakare." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Adarsh+Thakare." alt="Typing SVG">
 </p>
 
 <h4 align="center">I'm a Curious Full-Stack Android developer and a Chess Enthusiast from India</h4>
