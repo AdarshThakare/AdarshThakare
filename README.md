@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+%2C+I'm+Adarsh+Thakare." alt="Typing SVG">
 
-#### <p align="center">I'm a Curious Full-Stack <b>Android developer<b> and a <b>Chess Enthusiast</b> from India</p>
+#### <p align="center">I'm a Curious Full-Stack <b>Android|Web developer<b> and a <b>Chess Enthusiast</b> from India</p>
 
 <br>
 
